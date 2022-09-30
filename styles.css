@@ -1,0 +1,18 @@
+html {
+    background: white;
+}
+
+.input {
+    display: block;
+    border: 1px solid lightgray;
+    padding: 2px;
+    width: 100px;
+}
+.hidden {
+    display: none;
+}
+
+td {
+    border: 1px solid black;
+    padding: 3px;
+}
